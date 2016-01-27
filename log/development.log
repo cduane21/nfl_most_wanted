@@ -2169,3 +2169,183 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:31:21
 
 
 Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:31:21 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:46:11 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:46:25 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:46:33 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:49:04 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:49:51 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+Processing by PlayersController#index as HTML
+  Rendered players/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
+
+
+Started GET "/assets/nflcuffs.jpg" for 127.0.0.1 at 2016-01-26 16:50:02 -0800
