@@ -17,8 +17,8 @@ class MainController < ApplicationController
       data = JSON.load(res.body)
       #to parse JSON string; you may also use JSON.parse()
       #JSON.load() turns the data into a hash
-    #  @player = JSON.load(data)
+     # @player = JSON.load(data)
       # render :text => data.class
-      render :json => data[0]
+      render :json => data[0..50]
   end
 end

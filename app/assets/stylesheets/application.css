@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.cuffslogo {
+	text-align: center;
+	margin: 20px;
+}
+
+h5 {
+	text-align: center;
+}
