@@ -26,3 +26,8 @@ h5 {
 body {
 	font-family: 'Rock Salt', cursive;
 }
+
+.input-field {
+	margin: 500px;
+	text-align: center;
+}
