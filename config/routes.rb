@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
  root 'players#index'
  
- get 'players/index' 
+ #-------------players routes ----------#
+ get 'players/:name' => 'players#show'
 
- get 'main/get_api'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

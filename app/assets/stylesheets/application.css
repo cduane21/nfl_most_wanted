@@ -31,3 +31,7 @@ body {
 	margin: 500px;
 	text-align: center;
 }
+
+#player_names {
+	color: black;
+}
